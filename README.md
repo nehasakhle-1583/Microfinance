@@ -1,4 +1,4 @@
-### project title
+# project title
  microfinance/cooperative banking
  
 ## Functional Requirements
@@ -54,7 +54,7 @@ Input validations for numeric and string data.
 -Update balance after each transaction
 -File-based storage using structures
 
-# Transaction Features
+### Transaction Features
 
 Deposit
 
@@ -62,20 +62,20 @@ Withdraw
 
 Check balance
 
-# Loan Features
+### Loan Features
 
 -Issue loans
 -Calculate interest
 -EMI/Due generation
 -Loan repayment module
 
-# Backend Features
+### Backend Features
 
 -Uses file handling (fopen, fread, fwrite)
 -Stores all records securely
 -Works offline and requires no database
 
-# Project Structure
+### Project Structure
 microfinance/
 │
 ├── main.c              # Entry point
