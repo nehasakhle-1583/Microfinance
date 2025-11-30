@@ -121,4 +121,3 @@ Linux/Mac:
 <img width="331" height="105" alt="Screenshot 2025-12-01 011104" src="https://github.com/user-attachments/assets/7f6cb30b-d587-4578-85e3-118468b540fa" />
 <img width="366" height="90" alt="Screenshot 2025-12-01 011051" src="https://github.com/user-attachments/assets/16bde8ac-250f-4dfa-b6f4-83e63d9025d6" />
 <img width="500" height="272" alt="Screenshot 2025-12-01 010941" src="https://github.com/user-attachments/assets/457a4e56-b8e9-4ecf-bc31-d9a689851572" />
-<img width="703" height="202" alt="Screenshot 2025-12-01 010913" src="https://github.com/user-attachments/assets/dd08a2b5-0fe8-435c-bea1-2424bdf2f7bd" />
