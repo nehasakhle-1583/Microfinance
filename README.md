@@ -117,6 +117,13 @@ microfinance.exe
 Linux/Mac:
 
 ./microfinance
+
+## Abstract
+  Microfinance and cooperative banking are financial systems designed to provide affordable credit, savings, and other financial services to underserved communities. Unlike traditional banks, these institutions focus on inclusivity, empowering low‑income individuals, small entrepreneurs, and rural populations by offering small loans, collective savings schemes, and community‑driven governance. Their core mission is to promote financial literacy, reduce poverty, and foster sustainable economic development through trust‑based, member‑owned models.
+
+  ## summary
+    Microfinance and cooperative banking provide small loans, savings, and financial services to underserved communities. They empower low‑income individuals and small entrepreneurs, promote financial inclusion, and strengthen local economies through member‑owned, trust‑based models.
+
 <img width="703" height="202" alt="Screenshot 2025-12-01 010913" src="https://github.com/user-attachments/assets/43fbebb1-2640-4be1-a0f8-8f802f2f5e59" />
 <img width="331" height="105" alt="Screenshot 2025-12-01 011104" src="https://github.com/user-attachments/assets/7f6cb30b-d587-4578-85e3-118468b540fa" />
 <img width="366" height="90" alt="Screenshot 2025-12-01 011051" src="https://github.com/user-attachments/assets/16bde8ac-250f-4dfa-b6f4-83e63d9025d6" />
